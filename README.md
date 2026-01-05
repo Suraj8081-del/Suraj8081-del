@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/infinity-electric-snake-pro.svg" width="450"/>
-</p>
 ![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
 # 💫 Hi 👋, I'm Suraj Kashyap
 **Designing Intelligent Solutions  || Engineer AI systems || Engineering AI Systems from India**
@@ -46,4 +43,5 @@ Email Me 👉 ✉️ **tarusk98@gmail.com** For Collaboration/Project or Anythin
 ---
 [![](https://visitcount.itsvg.in/api?id=Suraj8081-del&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
