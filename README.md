@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/infinity-electric-snake-pro.svg" width="450"/>
+</p>
 ![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
 # 💫 Hi 👋, I'm Suraj Kashyap
 **Designing Intelligent Solutions  || Engineer AI systems || Engineering AI Systems from India**
