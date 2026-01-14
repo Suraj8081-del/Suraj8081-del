@@ -4,7 +4,7 @@
 
 Email Me 👉 ✉️ **tarusk98@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Airbnb
+- 🔭 **I’m currently working on:** Airbnb clone
 - 🌱 **I’m currently learning:**  MERN
 - 👯 **I’m looking to collaborate on:** Full stack 
 - 🤔 **I’m looking for help with:** Backened
